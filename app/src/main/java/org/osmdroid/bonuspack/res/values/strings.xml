@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MiniDeliveryApp</string>
+
+    <string name="osmbonuspack_directions_1">Continue straight</string>
+    <string name="osmbonuspack_directions_2">Turn slight left</string>
+    <string name="osmbonuspack_directions_3">Turn slight right</string>
+    <string name="osmbonuspack_directions_4">Turn left</string>
+    <string name="osmbonuspack_directions_5">Turn sharp left</string>
+    <string name="osmbonuspack_directions_6">Turn slight right</string>
+    <string name="osmbonuspack_directions_7">Turn right</string>
+    <string name="osmbonuspack_directions_8">Turn sharp right</string>
+    <string name="osmbonuspack_directions_12">Make a U-turn</string>
+    <string name="osmbonuspack_directions_17">Take the ramp left</string>
+    <string name="osmbonuspack_directions_18">Take the ramp right</string>
+    <string name="osmbonuspack_directions_19">Continue on the ramp</string>
+    <string name="osmbonuspack_directions_24">Head</string>
+    <string name="osmbonuspack_directions_27">Take the 1st exit at the roundabout</string>
+    <string name="osmbonuspack_directions_28">Take the 2nd exit at the roundabout</string>
+    <string name="osmbonuspack_directions_29">Take the 3rd exit at the roundabout</string>
+    <string name="osmbonuspack_directions_30">Take the 4th exit at the roundabout</string>
+    <string name="osmbonuspack_directions_31">Take the 5th exit at the roundabout</string>
+    <string name="osmbonuspack_directions_32">Take the 6th exit at the roundabout</string>
+    <string name="osmbonuspack_directions_33">Take the 7th exit at the roundabout</string>
+    <string name="osmbonuspack_directions_34">Take the 8th exit at the roundabout</string>
+</resources>
