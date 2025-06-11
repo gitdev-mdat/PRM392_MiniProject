@@ -39,7 +39,8 @@ osmbonuspack	Tính năng nâng cao: Routing, Geocoding, Marker, Polyline,...
 OSRM	Máy chủ tính lộ trình mã nguồn mở
 
 📘 Tài liệu hướng dẫn
-👉 Xem tài liệu hướng dẫn chi tiết tại đây: [title]([http://~](https://www.canva.com/design/DAGp7JsbOAs/GTrvrH97kthuEDxc29xqxw/edit))
+👉 Xem tài liệu hướng dẫn chi tiết tại đây: [title](https://www.canva.com/design/DAGp7JsbOAs/GTrvrH97kthuEDxc29xqxw/edit)
+
 
 👨‍💻 Tác giả
 Dự án được thực hiện bởi Nhóm 1 – Sinh viên môn PRM392
