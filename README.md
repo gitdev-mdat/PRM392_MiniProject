@@ -1,6 +1,6 @@
 # Mini Delivery App
 Ứng dụng Android hiển thị bản đồ và chỉ đường giữa hai địa điểm, sử dụng thư viện **osmdroid** và **osmbonuspack**.
-
+👉  Xem tài liệu hướng dẫn chi tiết tại đây: [Hướng dẫn chi tiết](https://www.canva.com/design/DAGp7JsbOAs/GTrvrH97kthuEDxc29xqxw/edit)
 
 ## 🧩 Tính năng
 
